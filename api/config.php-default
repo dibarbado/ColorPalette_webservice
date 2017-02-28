@@ -19,5 +19,4 @@ define('DB_HOST','localhost',true);
 define('DB_USER','',true);
 define('DB_PASS','',true);
 define('DB_NAME','',true);
-// define('SEND_ERRORS_TO','dibarbado@gmail.com');
 define('DISPLAY_DEBUG',true);
